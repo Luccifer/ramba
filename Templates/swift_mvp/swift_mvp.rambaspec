@@ -1,0 +1,21 @@
+# Template information section
+name: "swifty_mvp_roman"
+summary: "Swift MVP module"
+author: "Roman Ustyantsev"
+version: "0.1.0"
+license: "MIT"
+
+# The declarations for code files
+
+code_files:
+# View layer
+- {name: View/ViewController.swift, path: Code/View/viewcontroller.swift.liquid}
+
+# Presenter layer
+- {name: Presenter/Presenter.swift, path: Code/Presenter/presenter.swift.liquid}
+
+# Configurator
+- {name: Configurator/Configurator.swift, path: Code/Configurator/configurator.swift.liquid}
+
+# Protocols Layer
+- {name: Protocols/Protocols.swift, path: Code/Protocols/protocols.swift.liquid}
