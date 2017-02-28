@@ -9,7 +9,7 @@
 
 2) [Initialize Generamba](https://github.com/rambler-digital-solutions/Generamba/wiki/Available-Commands#basic-generamba-configuration) in your project's folder and install templates from this repo
 
-3) open terminal and execute: 
+3) open terminal and execute this in the same project's folder: 
 ```bash
 $ generamba gen Module swifty_viper
 ```
